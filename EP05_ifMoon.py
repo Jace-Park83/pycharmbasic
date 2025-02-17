@@ -1,4 +1,4 @@
-age = 17
+age = 10
 
 if age >= 19:
     print("성인입니다")

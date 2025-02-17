@@ -1,5 +1,3 @@
-# 정수
-from EP03_forMoon import student_scores
 
 age = 20
 print(age)
